@@ -1,0 +1,21 @@
+{
+  "name": "comp397lesson1",
+  "version": "1.0.0",
+  "description": "Comp397-Fsll2018-Lesson1-Createjs_demo",
+  "main": "index.js",
+  "repository": "https://github.com/sreejithsnair6699/Comp397Fall2018.git",
+  "author": "SJ\\Sreejith <sreejithsanir6699@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "easeljs": "^1.0.2",
+    "preloadjs": "^1.0.1",
+    "soundjs": "^1.0.1",
+    "tweenjs": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/easeljs": "^1.0.0",
+    "@types/preloadjs": "^0.6.32",
+    "@types/soundjs": "^0.6.27",
+    "@types/tweenjs": "^1.0.0"
+  }
+}
